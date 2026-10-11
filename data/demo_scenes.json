@@ -1,0 +1,8 @@
+{
+  "fictional": true,
+  "scenes": [
+    {"id":"SCN-101","name":"Sunlit living room","photoCount":12,"blurry":0,"dark":0,"reflective":1,"note":"clean capture","symbol":"☀","color":"linear-gradient(135deg,#d5ab65,#734b32)"},
+    {"id":"SCN-102","name":"Cozy den","photoCount":10,"blurry":1,"dark":1,"reflective":0,"note":"borderline light","symbol":"⌂","color":"linear-gradient(135deg,#8da08a,#273f3a)"},
+    {"id":"SCN-103","name":"Night apartment","photoCount":6,"blurry":2,"dark":3,"reflective":2,"note":"reshoot needed","symbol":"☾","color":"linear-gradient(135deg,#66708f,#20243a)"}
+  ]
+}
